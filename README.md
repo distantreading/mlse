@@ -1,2 +1,2 @@
-# mlse
-Multi-Language Stylometry using ELTeC
+# Multi-Language Stylometry using ELTeC (mlse)
+
