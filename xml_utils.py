@@ -1,7 +1,7 @@
 import numpy as np
 from glob import glob
 import xml.etree.ElementTree as ET
-
+import shutil
 
 
 def get_all_xmls(input_path):
