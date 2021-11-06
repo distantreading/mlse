@@ -69,6 +69,8 @@ def move_to_dir(input_author, author_stats, target_dir):
     target_dir: '/path/to/the/target/destination' (type str)
     
     """
+    print(author_stats[input_author])
+    print(target_dir)
     xmls = author_stats[input_author]
     for xml in xmls:
         shutil.move(xml, target_dir)
