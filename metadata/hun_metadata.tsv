@@ -1,0 +1,14 @@
+filename	xmlid	authorlabel	au-name	title	au-birth	au-death	au-ids	digitalSource	firsted-yr	title-ids	language	numwords	subgenre	narr-per	au-gender	sizeCat	reprintCount	time-slot
+HU03130	HU03130	EötvösJózsef	Eötvös József	A karthauzi	1813	1871	viaf:64044769	Magyar Elektronikus Könyvtárért Egyesület	1842	NA	hu	127812	NA	NA	M	long	high	T1
+HU04774	HU04774	EötvösJózsef	Eötvös József	Magyarország 1514-ben : Regény	1813	1871	viaf:64044769	Magyar Elektronikus Könyvtárért Egyesület	1847	NA	hu	201018	NA	NA	M	long	high	T1
+HU00662	HU00662	GárdonyiGéza	Gárdonyi Géza	A láthatatlan ember : Történelmi regény	1863	1922	viaf:24643507	Magyar Elektronikus Könyvtárért Egyesület	1901	NA	hu	76646	NA	NA	M	medium	high	T4
+HU13387	HU13387	GárdonyiGéza	Gárdonyi Géza	Egri csillagok: Bornemissza Gergely élete: ELTeC edition	1863	1922	viaf:24643507	Magyar Elektronikus Könyvtárért Egyesület	1901	NA	hu	138886	NA	NA	M	long	high	T4
+HU06982	HU06982	GárdonyiGéza	Gárdonyi Géza	A lámpás : Regény	1863	1922	viaf:24643507	Magyar Elektronikus Könyvtárért Egyesület	1895	NA	hu	14590	NA	NA	M	short	high	T3
+HU02204	HU02204	JókaiMór	Jókai Mór	A kétszarvú ember	1825	1904	viaf:59084200	Magyar Elektronikus Könyvtárért Egyesület	1852	NA	hu	32893	NA	NA	M	short	high	T1
+HU17910	HU17910	JósikaJúlia	Jósika Júlia	Konrád	1813	1893	viaf:46218998	Magyar Elektronikus Könyvtárért Egyesület	1872	NA	hu	38707	NA	NA	F	short	low	T2
+HU17873	HU17873	JósikaJúlia	Jósika Júlia	Az élet esélyei: Regény: ELTeC edition 	1813	1893	46218998	Magyar Elektronikus Könyvtárért Egyesület	1864	NA	hu	28349	NA	NA	F	short	low	T2
+HU05620	HU05620	KeményZsigmond	Kemény Zsigmond	Zord idő	1814	1875	viaf:54141095	Magyar Elektronikus Könyvtárért Egyesület	1862	NA	hu	121526	NA	NA	M	long	high	T2
+HU00954	HU00954	MikszáthKálmán	Mikszáth Kálmán	Szent Péter esernyője	1847	1910	viaf:46774986	Magyar Elektronikus Könyvtárért Egyesület	1895	NA	hu	53010	NA	NA	M	medium	high	T3
+HU07551	HU07551	NagyIgnác	Nagy Ignác	Magyar titkok : Regény	1810	1854	viaf:121393539	Magyar Elektronikus Könyvtárért Egyesület	1845	NA	hu	199822	NA	NA	M	long	low	T1
+HU19040	HU19040	NagyIgnác	Nagy Ignác	Torzképek	1810	1854	viaf:121393539	Magyar Elektronikus Könyvtárért Egyesület	1844	NA	hu	149986	NA	NA	M	long	low	T1
+HU00011	HU00011	VachottSándorné	Vachott Sándorné	Derű és ború	1828	1896	NA	The Google Books Digital Content Store	1854	NA	hu	65112	NA	NA	F	medium	low	T1

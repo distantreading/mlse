@@ -1,0 +1,28 @@
+filename	xmlid	authorlabel	au-name	title	au-birth	au-death	au-ids	digitalSource	firsted-yr	title-ids	language	numwords	subgenre	narr-per	au-gender	sizeCat	reprintCount	time-slot
+POR0064_AntFBar_Manuelinho	POR0064	Barata	Barata, António Francisco	O Manuelinho de Évora	1836	1910	viaf:376726	NA	1873	NA	pt-PT	47374	NA	NA	M	short	low	T2
+POR0049_AntFBar_Cartuxo	POR0049	Barata	Barata, António Francisco	O último cartuxo da Scala Caeli de Évora	1836	1910	viaf:376726	NA	1891	NA	pt-PT	72321	NA	NA	M	medium	low	T3
+POR0059_AntFBar_Duelo	POR0059	Barata	Barata, António Francisco	Um duelo nas sombras	1836	1910	viaf:376726	NA	1875	NA	pt-PT	50041	NA	NA	M	medium	low	T2
+POR0054_AbeBot_Amanha	POR0054	Botelho	Botelho, Abel	Amanhã	1856	1917	viaf:37048086	NA	1901	NA	pt-PT	137746	NA	NA	M	long	high	T4
+POR0020_AbeBot_Crioulo	POR0020	Botelho	Botelho, Abel	Amor crioulo	1856	1917	viaf:37048086	NA	1917	NA	pt-PT	81492	NA	NA	M	medium	unspecified	T4
+POR0053_AbeBot_Lavos	POR0053	Botelho	Botelho, Abel	O Barão de Lavos	1856	1917	viaf:37048086	NA	1891	NA	pt-PT	105866	NA	NA	M	long	high	T3
+POR0013_RauBra_Pobres	POR0013	Brandão	Brandão, Raul	Os pobres	1867	1930	viaf:17219789	NA	1906	NA	pt-PT	40117	NA	NA	M	short	high	T4
+POR0051_RauBra_Humus	POR0051	Brandão	Brandão, Raul	Húmus	1867	1930	viaf:17219789	NA	1917	NA	pt-PT	65304	NA	NA	M	medium	high	T4
+POR0052_RauBra_Farsa	POR0052	Brandão	Brandão, Raul	A Farsa	1867	1930	viaf:17219789	NA	1903	NA	pt-PT	44142	NA	NA	M	short	high	T4
+POR0012_CamCB_Misterios	POR0012	CasteloBranco	Castelo Branco, Camilo	Mistérios de Lisboa	1825	1890	viaf:7399630	NA	1854	NA	pt-PT	196947	NA	NA	M	long	high	T1
+POR0011_CamCB_Mulheres	POR0011	CasteloBranco	Castelo Branco, Camilo	O que fazem mulheres	1825	1890	viaf:7399630	NA	1858	NA	pt-PT	41587	NA	NA	M	short	high	T1
+POR0010_CamCB_Perdicao	POR0010	CasteloBranco	Castelo Branco, Camilo	Amor de Perdição	1825	1890	viaf:7399630	NA	1862	NA	pt-PT	50353	NA	NA	M	medium	high	T2
+POR0062_AnaCO_Diario	POR0062	CastroOsório	Castro Osório, Ana de	Diário de uma criança	1839	1871	viaf:68982250	NA	1908	NA	pt-PT	18320	NA	NA	F	short	low	T4
+POR0002_AnaCO_Sacrificada	POR0002	CastroOsório	Castro Osório, Ana de	Sacrificada	1839	1871	viaf:68982250	NA	1908	NA	pt-PT	17416	NA	NA	F	short	low	T4
+POR0099_AnaCO_Ambicoes	POR0099	CastroOsório	Castro Osório, Ana de	Ambições 	1839	1871	viaf:68982250	Biblioteca Nacional de Portugal	1903	NA	pt-PT	77224	NA	NA	F	medium	low	T4
+POR0001_JulDin_Morgadinha	POR0001	Dinis	Dinis, Júlio [Joaquim Guilherme Gomes Coelho]	A Morgadinha dos Canaviais 	1839	1871	viaf:36941922	NA	1868	NA	pt-PT	150996	NA	NA	M	long	high	T2
+POR0015_JulDin_Fidalgos	POR0015	Dinis	Dinis, Júlio [Joaquim Guilherme Gomes Coelho]	Os Fidalgos da Casa Mourisca	1839	1871	viaf:36941922	NA	1867	NA	pt-PT	145632	NA	NA	M	long	high	T2
+POR0007_JulDin_Inglesa	POR0007	Dinis	Dinis, Júlio [Joaquim Guilherme Gomes Coelho]	Uma família ingleza	1839	1871	viaf:36941922	NA	1868	NA	pt-PT	123135	NA	NA	M	long	high	T2
+POR0005_EcaQue_Maias	POR0005	EçadeQueirós	Eça de Queirós, José Maria de	Os Maias	1845	1900	viaf:88719234	NA	1888	NA	pt-PT	217462	NA	NA	M	long	high	T3
+POR0009_EcaQue_Amaro	POR0009	EçadeQueirós	Eça de Queirós, José Maria de	O Crime do Padre Amaro	1845	1900	viaf:88719234	NA	1875	NA	pt-PT	142963	NA	NA	M	long	high	T2
+POR0008_EcaQue_Ramires	POR0008	EçadeQueirós	Eça de Queirós, José Maria de	A ilustre casa de Ramires	1845	1900	viaf:88719234	NA	1900	NA	pt-PT	108451	NA	NA	M	long	high	T4
+POR0003_AleHer_Cister	POR0003	Herculano	Herculano, Alexandre	O Monge de Cister	1810	1877	NA	NA	1848	NA	pt-PT	131300	NA	NA	M	long	high	T1
+POR0023_AleHer_Eurico	POR0023	Herculano	Herculano, Alexandre	Eurico, o Presbítero	1810	1877	viaf:2464795	NA	1844	NA	pt-PT	58989	NA	NA	M	medium	high	T1
+POR0038_AleHer_Bobo	POR0038	Herculano	Herculano, Alexandre	O Bobo 	1810	1877	viaf:2464795	NA	1843	NA	pt-PT	61739	NA	NA	M	medium	high	T1
+POR0058_AlbPim_Guerrilha	POR0058	Pimentel	Pimentel, Alberto	A guerrilha de Frei Simão	1849	1925	viaf:64047987	NA	1895	NA	pt-PT	71342	NA	NA	M	medium	low	T3
+POR0022_AlbPim_Cintra	POR0022	Pimentel	Pimentel, Alberto	Noites de Cintra	1849	1925	viaf:64047987	NA	1892	NA	pt-PT	32610	NA	NA	M	short	low	T3
+POR0055_AlbPim_Anel	POR0055	Pimentel	Pimentel, Alberto	O Annel Mysterioso	1849	1925	viaf:64047987	NA	1873	NA	pt-PT	56675	NA	NA	M	medium	low	T2

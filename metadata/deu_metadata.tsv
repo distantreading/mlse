@@ -1,0 +1,38 @@
+filename	xmlid	authorlabel	au-name	title	au-birth	au-death	au-ids	digitalSource	firsted-yr	title-ids	language	numwords	subgenre	narr-per	au-gender	sizeCat	reprintCount	time-slot
+DEU002	DEU002	Auerbach	Auerbach, Berthold	Der Lehnhold	1812	1882	http://d-nb.info/gnd/11865103X	NA	NA	NA	de	66067	NA	NA	M	medium	low	T1
+DEU008	DEU008	Auerbach	Auerbach, Berthold	Der Lautenbacher	1812	1882	http://d-nb.info/gnd/11865103X	NA	NA	NA	de	31603	NA	NA	M	short	low	T1
+DEU013	DEU013	Auerbach	Auerbach, Berthold	Barfüßele	1812	1882	http://d-nb.info/gnd/11865103X	NA	1856	NA	de	76008	NA	NA	M	medium	low	T1
+DEU057	DEU057	Dohm	Dohm, Hedwig	Sibilla Dalmar	1831	1919	http://d-nb.info/gnd/11852643X	NA	1896	NA	de	97263	NA	NA	F	medium	low	T3
+DEU073	DEU073	Dohm	Dohm, Hedwig	Schicksale einer Seele	1831	1919	http://d-nb.info/gnd/11852643X	NA	1899	NA	de	104561	NA	NA	F	long	low	T3
+DEU058	DEU058	Ebner-Eschenbach	Ebner-Eschenbach, Marie von	Lotti, die Uhrmacherin	1830	1916	http://d-nb.info/gnd/118528661	NA	1880	NA	de	41591	NA	NA	F	short	high	T3
+DEU027	DEU027	Ebner-Eschenbach	Ebner-Eschenbach, Marie von              	Bozena	1830	1916	http://d-nb.info/gnd/118528661	NA	1876	NA	de	76679	NA	NA	F	medium	high	T2
+DEU070	DEU070	Fontane	Fontane, Theodor	Schach von Wuthenow	1819	1898	http://d-nb.info/gnd/118534262	NA	1882	NA	de	50542	NA	NA	M	medium	high	T3
+DEU051	DEU051	Fontane	Fontane, Theodor	Unterm Birnbaum	1819	1898	http://d-nb.info/gnd/118534262	NA	August-September 1885	NA	de	40316	NA	NA	M	short	high	T3
+DEU071	DEU071	Fontane	Fontane, Theodor	Cécile	1819	1898	http://d-nb.info/gnd/118534262	NA	1886	NA	de	67507	NA	NA	M	medium	high	T3
+DEU035	DEU035	Fontane	Fontane, Theodor	Vor dem Sturm	1819	1898	http://d-nb.info/gnd/118534262	NA	Januar- September 1878	NA	de	269471	NA	NA	M	long	high	T2
+DEU053	DEU053	Fontane	Fontane, Theodor	Graf Petöfy	1819	1898	http://d-nb.info/gnd/118534262	NA	Juli-August 1884	NA	de	71428	NA	NA	M	medium	high	T3
+DEU059	DEU059	Fontane	Fontane, Theodor	Irrungen, Wirrungen	1819	1898	http://d-nb.info/gnd/118534262	NA	Juli-August 1887	NA	de	63334	NA	NA	M	medium	high	T3
+DEU046	DEU046	Fontane	Fontane, Theodor	Grete Minde	1819	1898	http://d-nb.info/gnd/118534262	NA	1879	NA	de	39821	NA	NA	M	short	high	T2
+DEU028	DEU028	François	François, Louise von	Die letzte Reckenburgerin	1817	1893	http://d-nb.info/gnd/118692577	NA	NA	NA	de	108606	NA	NA	F	long	unspecified	T2
+DEU047	DEU047	François	François, Louise von	Judith die Kluswirtin	1817	1893	http://d-nb.info/gnd/118692577	NA	1862	NA	de	54773	NA	NA	F	medium	low	T2
+DEU033	DEU033	François	François, Louise von	Die Geschichte meines Urgroßvaters	1817	1893	http://d-nb.info/gnd/118692577	NA	1855	NA	de	37948	NA	NA	F	short	low	T2
+DEU030	DEU030	Freytag	Freytag, Gustav	Die verlorene Handschrift	1816	1895	http://d-nb.info/gnd/pnd:118535455	NA	NA	NA	de	307798	NA	NA	M	long	high	T2
+DEU040	DEU040	Marlitt	Marlitt, Eugenie	Goldelse	1825	1887	http://d-nb.info/gnd/1014122880	NA	1866	NA	de	118440	NA	NA	F	long	high	T2
+DEU037	DEU037	Marlitt	Marlitt, Eugenie	Das Heideprinzeßchen	1825	1887	http://d-nb.info/gnd/1014122880	NA	1871	NA	de	148356	NA	NA	F	long	low	T2
+DEU041	DEU041	Marlitt	Marlitt, Eugenie	Das Geheimnis der alten Mamsell	1825	1887	http://d-nb.info/gnd/1014122880	NA	1868	NA	de	105854	NA	NA	F	long	low	T2
+DEU054	DEU054	May	May, Karl	Am Jenseits	1842	1912	http://d-nb.info/gnd/118818651	NA	1898	NA	de	186082	NA	NA	M	long	high	T3
+DEU084	DEU084	May	May, Karl	Ardistan und Dschinnistan II	1842	1912	http://d-nb.info/gnd/118818651	NA	1909	NA	de	205246	NA	NA	M	long	high	T4
+DEU081	DEU081	May	May, Karl	Und Friede auf Erden!	1842	1912	http://d-nb.info/gnd/118818651	NA	NA	NA	de	210053	NA	NA	M	long	high	T4
+DEU072	DEU072	Raabe	Raabe, Wilhelm	Im alten Eisen	1831	1910	http://d-nb.info/gnd/118692577	NA	1887	NA	de	64386	NA	NA	M	medium	high	T3
+DEU031	DEU031	Raabe	Raabe, Wilhelm	Der Schüdderump	1831	1910	http://d-nb.info/gnd/118692577	NA	Oktober 1969 – März 1870	NA	de	135524	NA	NA	M	long	high	T2
+DEU029	DEU029	Raabe	Raabe, Wilhelm	Alte Nester	1831	1910	http://d-nb.info/gnd/118597442	NA	Juli/August1879	NA	de	97670	NA	NA	M	medium	low	T2
+DEU050	DEU050	Raabe	Raabe, Wilhelm	Abu Telfan oder Die Heimkehr vom Mondgebirge	1831	1910	http://d-nb.info/gnd/118692577	NA	1867	NA	de	136330	NA	NA	M	long	unspecified	T2
+DEU038	DEU038	Raabe	Raabe, Wilhelm	Der Hungerpastor	1831	1910	http://d-nb.info/gnd/118692577	NA	Nov. 1863 – März   1864	NA	de	166341	NA	NA	M	long	high	T2
+DEU090	DEU090	Reventlow	Reventlow, Franziska Gräfin zu              	Von Paul zu Pedro	1871	1918	http://d-nb.info/gnd/118600044	NA	1912	NA	de	25015	NA	NA	F	short	high	T4
+DEU098	DEU098	Reventlow	Reventlow, Franziska Gräfin zu              	Herrn Dames Aufzeichnungen	1871	1918	http://d-nb.info/gnd/118600044	NA	1913	NA	de	41778	NA	NA	F	short	high	T4
+DEU039	DEU039	Spielhagen	Spielhagen, Friedrich	Problematische Naturen. Erste Abtheilung	1823	1911	http://d-nb.info/gnd/118616196	NA	1861	NA	de	225971	NA	NA	M	long	low	T2
+DEU065	DEU065	Spielhagen	Spielhagen, Friedrich	Zum Zeitvertreib	1823	1911	http://d-nb.info/gnd/118616196	NA	1897	NA	de	67471	NA	NA	M	medium	low	T3
+DEU019	DEU019	Stifter	Stifter, Adalbert	Zwei Schwestern	1805	1868	http://d-nb.info/gnd/118618156	NA	1846	NA	de	58315	NA	NA	M	medium	unspecified	T1
+DEU017	DEU017	Stifter	Stifter, Adalbert	Die Narrenburg	1805	1868	http://d-nb.info/gnd/118618156	NA	1843	NA	de	41879	NA	NA	M	short	unspecified	T1
+DEU007	DEU007	Stifter	Stifter, Adalbert	Die Mappe meines Urgroßvaters	1805	1868	http://d-nb.info/gnd/118618156	NA	1841	NA	de	82220	NA	NA	M	medium	high	T1
+DEU023	DEU023	Stifter	Stifter, Adalbert	Feldblumen	1805	1868	http://d-nb.info/gnd/118618156	NA	1841	NA	de	43934	NA	NA	M	short	high	T1
