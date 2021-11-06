@@ -1,14 +1,28 @@
 filename	xmlid	authorlabel	au-name	title	au-birth	au-death	au-ids	digitalSource	firsted-yr	title-ids	language	numwords	subgenre	narr-per	au-gender	sizeCat	reprintCount	time-slot
-HU03130	HU03130	EötvösJózsef	Eötvös József	A karthauzi	1813	1871	viaf:64044769	Magyar Elektronikus Könyvtárért Egyesület	1842	NA	hu	127812	NA	NA	M	long	high	T1
+HU00642	HU00642	EötvösJózsef	Eötvös József	A falu jegyzője	1813	1871	viaf:64044769	Magyar Elektronikus Könyvtárért Egyesület	1845	NA	hu	206761	NA	NA	M	long	high	T1
 HU04774	HU04774	EötvösJózsef	Eötvös József	Magyarország 1514-ben : Regény	1813	1871	viaf:64044769	Magyar Elektronikus Könyvtárért Egyesület	1847	NA	hu	201018	NA	NA	M	long	high	T1
+HU03130	HU03130	EötvösJózsef	Eötvös József	A karthauzi	1813	1871	viaf:64044769	Magyar Elektronikus Könyvtárért Egyesület	1842	NA	hu	127812	NA	NA	M	long	high	T1
 HU00662	HU00662	GárdonyiGéza	Gárdonyi Géza	A láthatatlan ember : Történelmi regény	1863	1922	viaf:24643507	Magyar Elektronikus Könyvtárért Egyesület	1901	NA	hu	76646	NA	NA	M	medium	high	T4
 HU13387	HU13387	GárdonyiGéza	Gárdonyi Géza	Egri csillagok: Bornemissza Gergely élete: ELTeC edition	1863	1922	viaf:24643507	Magyar Elektronikus Könyvtárért Egyesület	1901	NA	hu	138886	NA	NA	M	long	high	T4
 HU06982	HU06982	GárdonyiGéza	Gárdonyi Géza	A lámpás : Regény	1863	1922	viaf:24643507	Magyar Elektronikus Könyvtárért Egyesület	1895	NA	hu	14590	NA	NA	M	short	high	T3
 HU02204	HU02204	JókaiMór	Jókai Mór	A kétszarvú ember	1825	1904	viaf:59084200	Magyar Elektronikus Könyvtárért Egyesület	1852	NA	hu	32893	NA	NA	M	short	high	T1
-HU17910	HU17910	JósikaJúlia	Jósika Júlia	Konrád	1813	1893	viaf:46218998	Magyar Elektronikus Könyvtárért Egyesület	1872	NA	hu	38707	NA	NA	F	short	low	T2
+HU05573	HU05573	JókaiMór	Jókai Mór	És mégis mozog a föld	1825	1904	viaf:59084200	Magyar Elektronikus Könyvtárért Egyesület	1873	NA	hu	285818	NA	NA	M	long	high	T2
+HU05572	HU05572	JókaiMór	Jókai Mór	Egy magyar nábob : 1853-54	1825	1904	viaf:59084200	Magyar Elektronikus Könyvtárért Egyesület	1854	NA	hu	139820	NA	NA	M	long	high	T1
 HU17873	HU17873	JósikaJúlia	Jósika Júlia	Az élet esélyei: Regény: ELTeC edition 	1813	1893	46218998	Magyar Elektronikus Könyvtárért Egyesület	1864	NA	hu	28349	NA	NA	F	short	low	T2
+HU17910	HU17910	JósikaJúlia	Jósika Júlia	Konrád	1813	1893	viaf:46218998	Magyar Elektronikus Könyvtárért Egyesület	1872	NA	hu	38707	NA	NA	F	short	low	T2
+HU18964	HU18964	JósikaJúlia	Jósika Júlia	Családélet	1813	1893	viaf:46218998	Magyar Elektronikus Könyvtárért Egyesület	1862	NA	hu	56940	NA	NA	F	medium	low	T2
+HU00731	HU00731	KeményZsigmond	Kemény Zsigmond	Szerelem és hiúság	1814	1875	viaf:54141095	Magyar Elektronikus Könyvtárért Egyesület	1876	NA	hu	22783	NA	NA	M	short	high	T2
 HU05620	HU05620	KeményZsigmond	Kemény Zsigmond	Zord idő	1814	1875	viaf:54141095	Magyar Elektronikus Könyvtárért Egyesület	1862	NA	hu	121526	NA	NA	M	long	high	T2
+HU00730	HU00730	KeményZsigmond	Kemény Zsigmond	Özvegy és leánya	1814	1875	viaf:54141095	Magyar Elektronikus Könyvtárért Egyesület	1855	NA	hu	88579	NA	NA	M	medium	high	T1
 HU00954	HU00954	MikszáthKálmán	Mikszáth Kálmán	Szent Péter esernyője	1847	1910	viaf:46774986	Magyar Elektronikus Könyvtárért Egyesület	1895	NA	hu	53010	NA	NA	M	medium	high	T3
+HU00898	HU00898	MikszáthKálmán	Mikszáth Kálmán	A beszélő köntös	1847	1910	viaf:46774986	Magyar Elektronikus Könyvtárért Egyesület	1889	NA	hu	23646	NA	NA	M	short	high	T3
+HU00949	HU00949	MikszáthKálmán	Mikszáth Kálmán	A Noszty fiú esete Tóth Marival  	1847	1910	viaf:46774986	Magyar Elektronikus Könyvtárért Egyesület	1908	NA	hu	133267	NA	NA	M	long	high	T4
 HU07551	HU07551	NagyIgnác	Nagy Ignác	Magyar titkok : Regény	1810	1854	viaf:121393539	Magyar Elektronikus Könyvtárért Egyesület	1845	NA	hu	199822	NA	NA	M	long	low	T1
+HU18153	HU18153	NagyIgnác	Nagy Ignác	Szúnyogok	1810	1854	viaf:121393539	Magyar Elektronikus Könyvtárért Egyesület	1848	NA	hu	47550	NA	NA	M	short	low	T1
 HU19040	HU19040	NagyIgnác	Nagy Ignác	Torzképek	1810	1854	viaf:121393539	Magyar Elektronikus Könyvtárért Egyesület	1844	NA	hu	149986	NA	NA	M	long	low	T1
+HU19018	HU19018	VachottSándorné	Vachott Sándorné	Margit	1828	1896	NA	Magyar Elektronikus Könyvtárért Egyesület	1857	NA	hu	63890	NA	NA	F	medium	low	T1
 HU00011	HU00011	VachottSándorné	Vachott Sándorné	Derű és ború	1828	1896	NA	The Google Books Digital Content Store	1854	NA	hu	65112	NA	NA	F	medium	low	T1
+HU00012	HU00012	VachottSándorné	Vachott Sándorné	Irma hagyományai	1828	1896	NA	The Google Books Digital Content Store	1859	NA	hu	47321	NA	NA	F	short	low	T1
+HU01115	HU01115	VasGereben	Vas Gereben	Egy alispán : Magyar korrajz	1823	1868	viaf:36952007	Magyar Elektronikus Könyvtárért Egyesület	1858	NA	hu	90713	NA	NA	M	medium	low	T1
+HU02143	HU02143	VasGereben	Vas Gereben	A pörös atyafiak : Regény	1823	1868	viaf:36952007	Magyar Elektronikus Könyvtárért Egyesület	1860	NA	hu	70428	NA	NA	M	medium	low	T2
+HU01116	HU01116	VasGereben	Vas Gereben	Nagy idők, nagy emberek	1823	1868	viaf:36952007	Magyar Elektronikus Könyvtárért Egyesület	1856	NA	hu	109239	NA	NA	M	long	low	T1
