@@ -74,7 +74,7 @@ def get_variability(metadata):
     variability = pd.DataFrame(scaler.fit_transform(variability), columns=variability.columns, index=variability.index)
     # Create an aggregate value, here a simple unweighted mean for each author
     variability["aggregated"] = np.mean(variability, axis=1)
-    variability.sort_values("aggregated", ascending=True, inplace=True)
+    variability.sort_values("aggregated", ascending=False, inplace=True)
     print(variability)
     return variability
 
@@ -100,6 +100,7 @@ def save_data(data, datafile):
 
 
 def plot_data(data, lang, datafile): 
+    data.sort_values("aggregated", ascending=False, inplace=True)
     ax = data["aggregated"].plot.barh(title="Intra-author text similarities for ELTeC-" + lang)
     ax.set_xlabel("Aggregated intra-author text similarity score")
     ax.set_ylabel("Author names")
