@@ -1,6 +1,6 @@
 ## Roadmap for the project
 
-1. Select all language collections that have at least 9 different authors represented with 3 different novels from ELTeC (that's currently 8 collections), see overview here: https://distantreading.github.io/ELTeC/. (DONE)
+1. Select all language collections that have at least 9 different authors represented with 3 different novels from ELTeC (that's currently 8 collections) to create the ELTeC Authorship Attribution Benchmark Dataset. See overview of ELTeC here: https://distantreading.github.io/ELTeC/. (DONE)
 2. Copy only the XML-files (preferably level-1) over to the corpus folder here that correpond to these authors, separated by language. Each collection should have at least 24 novels in them. (Decide whether to use more if available? Yes, up to 12? Or even more? pol has 33.) (DONE, using all available novels)
 3. Extract the main body text as plain text from these XML files and save into a separate folder; retain original file names. Consider some segmentation of novels into multiple documents (say, 20,000 words each) to increase the number of available instances for sampling (see below). (DONE, segmentation to be done at a later stage, e.g. in step #7) 
 4. Extract metadata from these XML files (xml:id, language, author, title, year of first publication, timeSlot, author-gender, author-birth-year, length class, reprint count, others?) into one big metadata table (metadata.tsv). (DONE, but using separate metadata files for the moment.) 
@@ -14,3 +14,7 @@
 12. With the best mfw parameters for each language, also do a clustering and dendrogram visualization, for visual inspection by experts. 
 13. Discuss results with the domain experts, i.e. the creators of each collection, to develop hypotheses to explain the most common classification errors and the composition of the collection. 
 14. Write it all up, keep data and code here in the repo, submit to JCLS or DH2022. 
+
+## Notes
+1. For the sake of consistency and comparability, the Polish-language collection probably needs to be excluded from the dataset because it is structured quite a bit differently from the other collections, and because metadata pertaining to publication year is missing or not encoded in a standardized way. 
+
