@@ -152,7 +152,7 @@ def save_data(data, datafile):
 def plot_author_data(data, lang, datafile): 
     data.sort_values("prediction", ascending=False, inplace=True)
     ax = data["prediction"].plot.barh(title="Predicted attribution accuracy for ELTeC-" + lang)
-    ax.set_xlabel("Predicted accuracy = 1 - mean intra-author text similarity")
+    ax.set_xlabel("Predicted accuracy = mean intra-author metadata variability")
     ax.set_ylabel("Author names")
     plt.savefig(datafile[:-4] + ".png", dpi=300, bbox_inches="tight", pad_inches=0.2)
 
