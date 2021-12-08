@@ -24,6 +24,7 @@ def get_predicted(csvfile):
         predicted.sort_index(inplace=True)
         predicted = predicted.sort_values(ascending=False)        
         predicted = predicted.rename("predicted")
+        predicted = predicted.rank()
         #print(predicted)
         return predicted
 
@@ -37,6 +38,7 @@ def get_empirical(csvfile, lang, mfw):
         empirical.index = empirical.index.str.replace("_", "")
         empirical = empirical.sort_values(ascending=False)
         empirical = empirical.rename("empirical")
+        empirical  = empirical.rank()
         #print(empirical)
         return empirical
 
@@ -48,13 +50,12 @@ def compare_accuracies(lang, predicted, empirical):
     return np.round(pearsonsr, 3)
 
 
-def visualize_correlation(lang, predicted, empirical, pearsonsr): 
-    combined = pd.concat([predicted, empirical], axis=1)
+def visualize_correlation(lang, combined, pearsonsr): 
     #print(combined.head())
-    plot = pygal.XY(legend_at_bottom=True, range=(0.5,1))
+    plot = pygal.XY(legend_at_bottom=True)
     plot.title ="Predicted and empirical accuracies for " + lang + " (Pearson's R: " +str(pearsonsr)+ ")"
-    plot.x_title = "Predicted accuracies"
-    plot.y_title = "Empirical accuracies"
+    plot.x_title = "Rank by predicted accuracy"
+    plot.y_title = "Rank by empirical accuracy"
     for row in combined.iterrows(): 
         label = row[0]
         values = (np.round(row[1]["predicted"],2), np.round(row[1]["empirical"],2))
@@ -81,7 +82,8 @@ def main(langs, mfw):
         empirical_file = join("..", "results", "results_authors_acc_wurzburg.csv")
         predicted = get_predicted(predicted_file)
         empirical = get_empirical(empirical_file, lang, mfw)
+        combined = pd.concat([predicted, empirical], axis=1)
         pearsonsr = compare_accuracies(lang, predicted, empirical)
-        visualize_correlation(lang, predicted, empirical, pearsonsr)
+        visualize_correlation(lang, combined, pearsonsr)
 
 main(langs, mfw)
